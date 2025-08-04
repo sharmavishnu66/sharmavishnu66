@@ -41,6 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishnu66&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+---
+
 ## <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="24px"/> My Skills :
 
 <p>
@@ -52,6 +54,8 @@
   <img src="https://img.shields.io/badge/REACT-2D2D72?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/NODE-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/EXPRESS-5C5E62?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
