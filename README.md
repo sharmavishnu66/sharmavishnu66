@@ -41,11 +41,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishnu66&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-## 🚀 My Skills
+## <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="24px"/> My Skills :
 
-- **Languages & Libraries:** Python, Java, Pandas, NumPy
-- **Web & App Development:** React, Node.js, Express, Flutter, HTML, CSS
-- **Design & Tools:** Figma, Canva
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIGMA-21C87A?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-2D2D72?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPRESS-5C5E62?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
 ---
 
