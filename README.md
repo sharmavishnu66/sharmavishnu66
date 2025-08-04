@@ -41,6 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishnu66&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+## 🚀 My Skills
+
+- **Languages & Libraries:** Python, Java, Pandas, NumPy
+- **Web & App Development:** React, Node.js, Express, Flutter, HTML, CSS
+- **Design & Tools:** Figma, Canva
+
 ---
 
 > _Feel free to connect and collaborate!_
