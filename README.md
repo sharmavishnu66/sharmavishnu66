@@ -1,19 +1,34 @@
-<!-- Profile README for Vishnu Sharma -->
-
 <h1 align="center">Hi there 👋 I'm Vishnu Sharma</h1>
 
 ---
 
-- 🌱 I’m a MERN developer skilled in Node.js, React.js, MongoDB, MySQL, AWS, Ubuntu, and Apache.
-- 🏏 My hobby is playing cricket.
-- 🌍 **Location:** Mathura, UP, India.
+- 🌱 I’m currently learning DSA, React, Node.js 🤯
+- 👯 I'm enthusiastic about ML, AI, and UI/UX Designing.
+- 👩‍🎨 I like playing cricket and make creative stuffs.
+- 🎊 I’m looking to collaborate on projects
+- 🌍 I know English, Hindi.
+- 📍 **Location:** Mathura, UP, India
+
+---
+
+## 🚀 Skills
+
+- 💻 MERN Stack: Node.js, React.js, MongoDB, MySQL
+- ☁️ AWS
+- 🐧 Ubuntu, Apache
+
+---
+
+## 🏏 Hobbies
+
+- Playing cricket
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmavishnu663/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/vishnusharma663/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/) 
 
 ---
 
